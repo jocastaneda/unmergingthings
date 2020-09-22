@@ -1,0 +1,17 @@
+{
+    "name": "jibber/Jibber-Chat",
+    "description": "Jibber Chat Plugin",
+    "type": "project",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Jibber AB",
+            "email": "info@jibber.social"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"JC_Inc\\": "./inc"}
+    }
+}
